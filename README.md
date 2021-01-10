@@ -1,3 +1,3 @@
-# Demo: Clean Coding Principles in C#
+# Clean Coding Principles in C#
 
-Code demo for "Clean Coding Principles in C#" for Pluralsight
+At the end of the PluralSight Session, I got the final clear code and making changes on that to make it even better.
